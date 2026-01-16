@@ -1,0 +1,48 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/
+*.streamlit/
+
+# Model files (too large for GitHub - 100MB limit)
+*.bin
+*.pt
+*.pth
+MyFinBERT_Model/
+model/
+models/
+
+# Data files
+*.pdf
+*.csv
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporary files
+*.tmp
+*.log
+.cache/
+
+# Text files
+run.txt
