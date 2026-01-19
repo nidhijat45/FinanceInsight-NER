@@ -133,7 +133,7 @@ FinanceInsight-NER/
 ├── .gitignore                # Git ignore rules
 ├── README.md                 # This file
 │
-├── MyFinBERT_Model/          # Your trained model (optional, not in repo)
+├── MyFinBERT_Model/       
 │   ├── config.json
 │   ├── pytorch_model.bin
 │   └── tokenizer files...
